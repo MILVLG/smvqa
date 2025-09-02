@@ -63,6 +63,7 @@ or
 client = OpenAI(api_key='sk-****')
 ```
 
+Generating result with our method at dir ./output:
 ```bash
 $ python scrips/gpt4o_example_mutil_img_inference.py
 ```
