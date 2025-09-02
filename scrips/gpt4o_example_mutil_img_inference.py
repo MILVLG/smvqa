@@ -10,8 +10,8 @@ import re
 import random
 
 client = OpenAI(
-    base_url="https://api.key77qiqi.com/v1",
-    api_key='sk-lrJ5dYO1MuHAz6LmKkPRcmUALYdDjQnGYmm2Ul9FLmbbN60z'
+    base_url="****",
+    api_key='sk-****'
 )
 
 #client = OpenAI(api_key='sk-****')
