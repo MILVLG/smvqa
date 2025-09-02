@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_1954_2",
+  "image": "0.002x0.0015_1954.png",
+  "question": "What direction is One More Thai from Siempre Verde Garden in the image?\nA. left\nB. bottom-left\nC. top\nD. bottom",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (125, 0, 750, 615) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat direction is One More Thai from Siempre Verde Garden in the image?\nOptions:\nA. left\nB. bottom-left\nC. top\nD. bottom",
+  "answer": "C",
+  "inference": "In the sub-image, One More Thai is on the right side of Ridge Street, and further to the right (east) is the East Houston Street. The Siempre Verde Garden is situated to the left (west) of Ridge Street.\n\nThus, One More Thai is to the right of Ridge Street when compared to Siempre Verde Garden, which is more towards the bottom left, indicating direction:\n\nThe correct answer is:\nB. bottom-left",
+  "type": "location"
+}

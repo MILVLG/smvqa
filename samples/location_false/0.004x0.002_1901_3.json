@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_1901_3",
+  "image": "0.004x0.002_1901.png",
+  "question": "In which direction of the East Village Wine can you find Siempre Verde Garden?\nA. top\nB. top-left\nC. bottom-right\nD. bottom-left",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (100, 654, 600, 981) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nIn which direction of the East Village Wine can you find Siempre Verde Garden?\nOptions:\nA. top\nB. top-left\nC. bottom-right\nD. bottom-left",
+  "answer": "D",
+  "inference": "The Siempre Verde Garden is located to the bottom-right of East Village Wine.\n\nCorrect answer: C. bottom-right",
+  "type": "location"
+}

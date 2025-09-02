@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1813_1",
+  "image": "0.003x0.003_1813.png",
+  "question": "Where is Citi Bike located in this image?\nA. top-left\nB. bottom-right\nC. left\nD. bottom-left",
+  "query": "Where is Citi Bike located in this image?\nOptions:\nA. top-left\nB. bottom-right\nC. left\nD. bottom-left",
+  "answer": "B",
+  "inference": "D. bottom-left",
+  "type": "location"
+}

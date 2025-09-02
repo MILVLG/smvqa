@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1906_3",
+  "image": "0.003x0.003_1906.png",
+  "question": "In which direction of the Eastside Kosher can you find Creative Furniture Inc?\nA. top-right\nB. bottom-left\nC. bottom-right\nD. left",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (376, 500, 846, 1000) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nIn which direction of the Eastside Kosher can you find Creative Furniture Inc?\nOptions:\nA. top-right\nB. bottom-left\nC. bottom-right\nD. left",
+  "answer": "C",
+  "inference": "The Creative Furniture Inc. is in the bottom-right direction of the Eastside Kosher.\n\nCorrect answer: C. bottom-right",
+  "type": "location"
+}

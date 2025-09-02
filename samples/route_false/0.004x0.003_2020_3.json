@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_2020_3",
+  "image": "0.004x0.003_2020.png",
+  "question": "How to get from Roderick Lucente, DMD, PC to Burrata Basil Pizza?\nA. ['Walk southeast', 'Turn right', 'Turn left', 'Arrive']\nB. ['Walk west', 'Forward', 'Turn left', 'Forward', 'Forward', 'Arrive']\nC. ['Walk north', 'Forward', 'Turn right', 'Arrive']\nD. ['Walk northwest', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (700, 492, 1400, 1107) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow to get from Roderick Lucente, DMD, PC to Burrata Basil Pizza?\nOptions:\nA. ['Walk southeast', 'Turn right', 'Turn left', 'Arrive']\nB. ['Walk west', 'Forward', 'Turn left', 'Forward', 'Forward', 'Arrive']\nC. ['Walk north', 'Forward', 'Turn right', 'Arrive']\nD. ['Walk northwest', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']",
+  "answer": "D",
+  "inference": "To get from Roderick Lucente, DMD, PC to Burrata Basil Pizza, we need to analyze the maps.\n\n1. Locate Roderick Lucente, DMD, PC:\n   - It is on East 13th Street near Avenue A.\n\n2. Locate Burrata Basil Pizza:\n   - It is near the intersection of East 14th Street Service Road and Avenue A.\n\nThe directions would be:\n- Leave the DMD office and head north on Avenue A.\n- Continue north until you reach East 14th Street Service Road.\n- Proceed slightly right along East 14th Street Service Road.\n\nFrom these instructions, the best match is:\n\nC. ['Walk north', 'Forward', 'Turn right', 'Arrive']",
+  "type": "route"
+}

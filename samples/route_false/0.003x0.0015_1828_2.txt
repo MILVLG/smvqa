@@ -1,0 +1,14 @@
+0.003x0.0015_1828_2
+is:  B
+A
+From the map, you can identify the following pathway from NYPD 7 PCT to Joan H. and Preston Robert Tisch Center:
+
+1. Walk west on Delancey Street to Ridge Street.
+2. Continue forward on Delancey Street.
+3. Turn left onto Ridge Street.
+4. Turn left onto the path leading directly to the center.
+
+So, the correct option is:
+
+B. ['Walk west', 'Forward', 'Forward', 'Turn left', 'Turn left', 'Arrive']
+FALSE

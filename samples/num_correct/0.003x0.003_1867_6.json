@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1867_6",
+  "image": "0.003x0.003_1867.png",
+  "question": "How many apparel and accessories shops are there on the map?\nA. 8\nB. 2\nC. 5\nD. 3",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 250, 376, 750) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow many apparel and accessories shops are there on the map?\nOptions:\nA. 8\nB. 2\nC. 5\nD. 3",
+  "answer": "D",
+  "inference": "To determine the number of apparel and accessories shops on the map, we need to look for icons or labels that indicate such shops. Here is what I found:\n\n1. **Eyes on 14th** - Lenses, frames, and other accessories related to eyewear.\n2. **Joe\u2019s Custom Tailors & Dry Cleaning** - Tailoring services (apparel related).\n3. **L&M Uniform** - Uniform store (apparel related).\n4. **H&R Handbags & Accessories** - Shop that sells handbags and accessories.\n\nFrom the map, I can only identify 4 shops related to apparel and accessories.\n\nTherefore, none of the given options (8, 2, 5, 3) matches exactly 4. However, the closest to 4, there would be 3.\n\nSo the answer is:\nD. 3",
+  "type": "num"
+}

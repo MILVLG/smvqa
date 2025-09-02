@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_2067_4",
+  "image": "0.002x0.0015_2067.png",
+  "question": "Does any dry cleaning shops exist anywhere?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (125, 123, 750, 615) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDoes any dry cleaning shops exist anywhere?\nOptions:\nA. Yes\nB. No",
+  "answer": "A",
+  "inference": "Based on the provided images, there is no indication of a dry cleaning shop. There are various other establishments listed such as \"Tompkins Square Post Office,\" \"Loisaida Drugs & Surgical,\" \"Fresno II Gourmet Deli,\" but none labeled as a dry cleaning shop.\n\nTherefore, the answer is:\nB. No",
+  "type": "exist"
+}

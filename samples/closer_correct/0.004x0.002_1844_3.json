@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_1844_3",
+  "image": "0.004x0.002_1844.png",
+  "question": "Which gallery is the closest to Taty Unisex in the image in a straight-line?\nA. Hashimoto Contemporary\nB. Art Clinic",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 0, 1100, 327) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich gallery is the closest to Taty Unisex in the image in a straight-line?\nOptions:\nA. Hashimoto Contemporary\nB. Art Clinic",
+  "answer": "B",
+  "inference": "The gallery closest to Taty Unisex in a straight line is Art Clinic, which is located directly across the street on Rivington Street.\n\nSo, the correct answer is:\nB. Art Clinic",
+  "type": "closer"
+}

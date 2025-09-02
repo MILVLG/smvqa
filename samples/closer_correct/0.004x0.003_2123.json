@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_2123",
+  "image": "0.004x0.003_2123.png",
+  "question": "Which is closer to the south in the image, Erin's Pharmacy or Manhatten Express Deli Grocery?\nA. Manhatten Express Deli Grocery\nB. Erin's Pharmacy",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (700, 984, 1300, 1476) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich is closer to the south in the image, Erin's Pharmacy or Manhatten Express Deli Grocery?\nOptions:\nA. Manhatten Express Deli Grocery\nB. Erin's Pharmacy",
+  "answer": "B",
+  "inference": "Based on the maps provided, Erin's Pharmacy is located on Avenue D, while Manhatten Express Deli Grocery is located on East 6th Street. In the extracted sub-image, you can confirm that Erin's Pharmacy is positioned further south compared to Manhatten Express Deli Grocery, which is further north.\n\nThus, the answer is:\nB. Erin's Pharmacy",
+  "type": "closer"
+}

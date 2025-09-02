@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_1941",
+  "image": "0.003x0.0015_1941.png",
+  "question": "Does any car repair shops exist anywhere in the image?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 369, 279, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDoes any car repair shops exist anywhere in the image?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "The cropped sub-image shows the street names \"Ridge Street\" and \"Delancey Street,\" but it does not provide any information indicating the presence of a car repair shop. Similarly, the original map image does not show any car repair shops.\n\nThe answer is:\nB. No",
+  "type": "exist"
+}

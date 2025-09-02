@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1746",
+  "image": "0.004x0.003_1746.png",
+  "question": "Which park is the closest to Thai Terminal if I walk there?\nA. Lower East Side Playground\nB. Abe Lebewohl Park",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (300, 0, 1500, 1230) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich park is the closest to Thai Terminal if I walk there?\nOptions:\nA. Lower East Side Playground\nB. Abe Lebewohl Park",
+  "answer": "A",
+  "inference": "Thai Terminal is located on East 13th Street near the junction with 2nd Avenue. Comparing the two parks:\n\n- Lower East Side Playground is located to the south and a bit east of 2nd Avenue, near East 11th Street.\n- Abe Lebewohl Park is located on the west side of 2nd Avenue, closer to East 10th Street. \n\nGiven the relative locations, Lower East Side Playground is closer to Thai Terminal.\n\nSo, the closest park to Thai Terminal is:\nOption A: Lower East Side Playground.",
+  "type": "closer"
+}

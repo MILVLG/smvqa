@@ -1,0 +1,7 @@
+0.004x0.003_1790
+is:  A
+B
+The nearest tobacco shop to Davidovich Bakery is the one labeled "Smoke Shop" which is right next to Davidovich Bakery. Therefore, the correct option is:
+
+A. Tobacco Shop
+FALSE

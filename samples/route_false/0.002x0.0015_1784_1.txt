@@ -1,0 +1,18 @@
+0.002x0.0015_1784_1
+is:  D
+B
+To determine the pathway from Montanna Shop to AT&T, let's first locate both destinations on the map.
+
+1. **Montanna Shop**: This is located near the intersection of Suffolk Street and Stanton Street on the left side of the map.
+2. **AT&T**: This is located near the intersection of Clinton Street and Stanton Street on the right side of the map, beside Metro by T-Mobile.
+
+To get from Montanna Shop to AT&T:
+- Start by walking northeast along Stanton Street.
+- Turn right when you reach Clinton Street.
+- Walk straight forward.
+- The AT&T store should be on your right.
+
+Based on this pathway, the correct answer is:
+
+D. ['Walk northeast', 'Turn right', 'Forward', 'Turn right', 'Arrive']
+FALSE
