@@ -50,18 +50,18 @@ Openai API key is necessary.
 
 Finding the code in scrips/gpt4o_example_mutil_img_inference.py and use your own api_key here
 
-'''python
+``` python
 client = OpenAI(
     base_url="****",
     api_key='sk-****'
 )
-'''
+```
 
 or
 
-'''python
+```python
 client = OpenAI(api_key='sk-****')
-'''
+```
 
 ```bash
 $ python scrips/gpt4o_example_mutil_img_inference.py
