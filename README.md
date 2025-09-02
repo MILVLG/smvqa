@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 
 
 #### Setup 
-You can download our datasets from [OneDrive]() or [BaiduYun](), and place them as follow:
+Our datasets is available here: [OneDrive]() or [BaiduYun](), please download and place them as follow:
 
 
 ```angular2html
