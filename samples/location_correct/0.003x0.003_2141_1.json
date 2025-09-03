@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_2141_1",
+  "image": "0.003x0.003_2141.png",
+  "question": "Where is Bee Wine & Liquors on the map?\nA. top-left\nB. top\nC. bottom\nD. top-right",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (94, 750, 376, 1125) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhere is Bee Wine & Liquors on the map?\nOptions:\nA. top-left\nB. top\nC. bottom\nD. top-right",
+  "answer": "C",
+  "inference": "Bee Wine & Liquors is located towards the bottom of the map.\n\nOption C: bottom",
+  "type": "location"
+}

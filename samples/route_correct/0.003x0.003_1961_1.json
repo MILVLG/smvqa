@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1961_1",
+  "image": "0.003x0.003_1961.png",
+  "question": "How to navigate from East Side Glatt to Luther Gulick Playground.\nA. ['Walk southeast', 'Turn right', 'Turn right', 'Arrive']\nB. ['Walk northwest', 'Turn right', 'Turn right', 'Arrive']\nC. ['Walk southeast', 'Turn right', 'Forward', 'Turn right', 'Forward', 'Forward', 'Turn left', 'Arrive']\nD. ['Walk south', 'Turn right', 'Turn right', 'Turn left', 'Turn right', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 125, 282, 1125) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow to navigate from East Side Glatt to Luther Gulick Playground.\nOptions:\nA. ['Walk southeast', 'Turn right', 'Turn right', 'Arrive']\nB. ['Walk northwest', 'Turn right', 'Turn right', 'Arrive']\nC. ['Walk southeast', 'Turn right', 'Forward', 'Turn right', 'Forward', 'Forward', 'Turn left', 'Arrive']\nD. ['Walk south', 'Turn right', 'Turn right', 'Turn left', 'Turn right', 'Arrive']",
+  "answer": "B",
+  "inference": "To determine how to navigate from East Side Glatt to Luther Gulick Playground, let's observe the map closely.\n\n1. Start at East Side Glatt located on Grand Street.\n2. Walk northwest on Grand Street.\n3. Turn right onto Willet Street and continue straight.\n4. Turn right at Broome Street to reach Luther Gulick Playground.\n\nThus, the correct answer is:\n\nB. ['Walk northwest', 'Turn right', 'Turn right', 'Arrive']",
+  "type": "route"
+}

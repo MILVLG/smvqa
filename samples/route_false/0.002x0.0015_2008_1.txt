@@ -1,0 +1,15 @@
+0.002x0.0015_2008_1
+is:  B
+A
+To navigate from Our Lady of Sorrows School to Ms. Bubble, you should:
+
+1. Walk southwest on Stanton Street (as it is the nearest direction to start from the school).
+2. Turn left onto Pitt Street.
+3. Move forward along Pitt Street.
+4. Turn right onto Rivington Street.
+5. Move forward along Rivington Street.
+6. Ms. Bubble should be on your left side, next to "NY Grill & Deli".
+
+Given the detailed steps, the correct answer is:
+B. ['Walk southwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Turn left', 'Forward', 'Arrive']
+FALSE

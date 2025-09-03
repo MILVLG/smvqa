@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_2064",
+  "image": "0.003x0.0015_2064.png",
+  "question": "Which is closer to the west in the image, The Garret or Ciao For Now?\nA. Ciao For Now\nB. The Garret",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (837, 0, 1116, 492) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich is closer to the west in the image, The Garret or Ciao For Now?\nOptions:\nA. Ciao For Now\nB. The Garret",
+  "answer": "B",
+  "inference": "A. Ciao For Now\n\nThe Garret is located farther to the east of the map, while Ciao For Now is closer to the west.",
+  "type": "closer"
+}

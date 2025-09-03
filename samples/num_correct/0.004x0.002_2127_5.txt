@@ -1,0 +1,13 @@
+0.004x0.002_2127_5
+is:  B
+B
+The zoomed-in sub-image highlights the area around Avenue C and East 11th Street, and shows the following dry cleaning shops:
+
+1. Up Cleaners
+2. Michelle Cleaners
+3. ABC Cleaners
+
+Therefore, the correct answer is:
+
+B. 3
+TRUE

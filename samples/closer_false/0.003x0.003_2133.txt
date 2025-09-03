@@ -1,0 +1,15 @@
+0.003x0.003_2133
+is:  A
+B
+To determine which pharmacy is located more to the north, we can compare their positions relative to the street layout. 
+
+From the images, we see:
+- **Equal Care Pharmacy** is located on East 7th Street.
+- **East Drive Pharmacy** is located on East 6th Street.
+
+Since East 7th Street is north of East 6th Street, Equal Care Pharmacy, which is on East 7th Street, is located more to the north compared to East Drive Pharmacy on East 6th Street.
+
+Therefore, the correct answer is:
+
+A. Equal Care Pharmacy
+FALSE

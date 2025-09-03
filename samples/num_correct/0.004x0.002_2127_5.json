@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_2127_5",
+  "image": "0.004x0.002_2127.png",
+  "question": "Can you count the number of dry cleaning shops in the image?\nA. 1\nB. 3\nC. 2\nD. 6",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (800, 0, 1500, 436) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nCan you count the number of dry cleaning shops in the image?\nOptions:\nA. 1\nB. 3\nC. 2\nD. 6",
+  "answer": "B",
+  "inference": "The zoomed-in sub-image highlights the area around Avenue C and East 11th Street, and shows the following dry cleaning shops:\n\n1. Up Cleaners\n2. Michelle Cleaners\n3. ABC Cleaners\n\nTherefore, the correct answer is:\n\nB. 3",
+  "type": "num"
+}

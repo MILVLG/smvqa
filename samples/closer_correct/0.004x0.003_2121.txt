@@ -1,0 +1,10 @@
+0.004x0.003_2121
+is:  B
+B
+The nearest garden to Dental Place is Orchard Alley Garden.
+
+Orchard Alley Garden is located close to Dental Place, as indicated in the zoomed-in sub-image. 
+
+Therefore, the correct answer is:
+B. Orchard Alley Garden
+TRUE

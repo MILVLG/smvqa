@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1733_1",
+  "image": "0.004x0.003_1733.png",
+  "question": "What's the pathway from The Back Room to 109 Nail?\nA. ['Walk southeast', 'Turn left', 'Turn right', 'Arrive']\nB. ['Walk southwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Forward', 'Turn left', 'Arrive']\nC. ['Walk northwest', 'Turn left', 'Turn right', 'Turn left', 'Turn right', 'Arrive']\nD. ['Walk southeast', 'Forward', 'Forward', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (100, 0, 900, 984) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat's the pathway from The Back Room to 109 Nail?\nOptions:\nA. ['Walk southeast', 'Turn left', 'Turn right', 'Arrive']\nB. ['Walk southwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Forward', 'Turn left', 'Arrive']\nC. ['Walk northwest', 'Turn left', 'Turn right', 'Turn left', 'Turn right', 'Arrive']\nD. ['Walk southeast', 'Forward', 'Forward', 'Arrive']",
+  "answer": "B",
+  "inference": "Based on the maps provided:\n\n1. **Starting Point: The Back Room (on Norfolk Street between Rivington Street and Stanton Street)**\n2. **Destination: 109 Nail (on Delancey Street between Suffolk Street and Clinton Street)**\n\n### Pathway\n1. Walk southeast on Norfolk Street towards Delancey Street.\n2. Turn left onto Delancey Street.\n3. Continue straight on Delancey Street past Suffolk Street.\n4. Arrive at 109 Nail, located on the left side of Delancey Street between Suffolk Street and Clinton Street.\n\n### Answer:\nThe pathway described matches the route in option B:\n\n**B.** ['Walk southwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Forward', 'Turn left', 'Arrive']",
+  "type": "route"
+}

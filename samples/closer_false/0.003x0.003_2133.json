@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_2133",
+  "image": "0.003x0.003_2133.png",
+  "question": "Which is located more north, East Drive Pharmacy or Equal Care Pharmacy?\nA. Equal Care Pharmacy\nB. East Drive Pharmacy",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (94, 0, 846, 750) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich is located more north, East Drive Pharmacy or Equal Care Pharmacy?\nOptions:\nA. Equal Care Pharmacy\nB. East Drive Pharmacy",
+  "answer": "B",
+  "inference": "To determine which pharmacy is located more to the north, we can compare their positions relative to the street layout. \n\nFrom the images, we see:\n- **Equal Care Pharmacy** is located on East 7th Street.\n- **East Drive Pharmacy** is located on East 6th Street.\n\nSince East 7th Street is north of East 6th Street, Equal Care Pharmacy, which is on East 7th Street, is located more to the north compared to East Drive Pharmacy on East 6th Street.\n\nTherefore, the correct answer is:\n\nA. Equal Care Pharmacy",
+  "type": "closer"
+}

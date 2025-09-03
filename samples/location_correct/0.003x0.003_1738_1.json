@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1738_1",
+  "image": "0.003x0.003_1738.png",
+  "question": "Where is University Neighborhood High School located in this image?\nA. top-left\nB. center\nC. bottom\nD. right",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (564, 0, 846, 375) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhere is University Neighborhood High School located in this image?\nOptions:\nA. top-left\nB. center\nC. bottom\nD. right",
+  "answer": "D",
+  "inference": "The University Neighborhood High School is located at the right of the image.\n\nCorrect answer: D. right",
+  "type": "location"
+}

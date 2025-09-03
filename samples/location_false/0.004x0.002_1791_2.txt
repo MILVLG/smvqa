@@ -1,0 +1,9 @@
+0.004x0.002_1791_2
+is:  D
+C
+Based on the provided maps, Izzies is located at 157 Suffolk Street, while Dee Basement Barber Shop is located at 161 Suffolk Street, just a bit further down the same street.
+
+Thus, the direction of Dee Basement Barber Shop relative to Izzies is:
+
+D. bottom
+FALSE

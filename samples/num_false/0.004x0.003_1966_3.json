@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1966_3",
+  "image": "0.004x0.003_1966.png",
+  "question": "What's the number of transportation facilities on the map?\nA. 5\nB. 4\nC. 9\nD. 14",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 0, 1500, 1107) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat's the number of transportation facilities on the map?\nOptions:\nA. 5\nB. 4\nC. 9\nD. 14",
+  "answer": "C",
+  "inference": "To determine the number of transportation facilities on the map, we examine the original image and the zoomed-in sub-image for any elements indicating transportation infrastructure such as bus stops, bike stations, or subway stations. \n\nFrom the images, we can identify the following transportation facilities:\n\n1. A bus stop on East 14th Street across 1st Avenue near the bus icon.\n2. A bus stop on East 14th Street at 1st Ave (north side).\n3. A bus stop on East 14th Street at 1st Ave (south side).\n4. Another bus stop further east on East 14th Street (near Avenue A).\n5. Another bus stop on East 14th Street at Avenida.\n\nThus, the total number of transportation facilities counted is 5.\n\nTherefore, the answer is:\nA. 5",
+  "type": "num"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_2120_3",
+  "image": "0.003x0.0015_2120.png",
+  "question": "Does any optician shops exist anywhere in the image?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (93, 0, 1116, 369) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDoes any optician shops exist anywhere in the image?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "B. No",
+  "type": "exist"
+}

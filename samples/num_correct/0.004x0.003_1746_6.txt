@@ -1,0 +1,17 @@
+0.004x0.003_1746_6
+is:  B
+B
+To determine the number of health and beauty shops on the map, we need to look for the icons that represent these types of shops. Health and beauty shop icons often include symbols like a comb or some specific logos commonly associated with beauty or health shops.
+
+Let's count these icons on the original map:
+
+1. On the left side of "East 13th Street", there are multiple health and beauty shop icons (e.g., comb icon).
+2. Further checking the area around the whole map for similar icons.
+
+Counting all such icons on the original map from the leftmost section to the rightmost, the total number of health and beauty shop icons on the map is:
+
+**14**
+
+Therefore, the correct answer is:
+B. 14
+TRUE

@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_2117_2",
+  "image": "0.003x0.0015_2117.png",
+  "question": "Can you find temples on the map?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 0, 372, 615) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nCan you find temples on the map?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "Option B: No",
+  "type": "exist"
+}

@@ -1,0 +1,6 @@
+0.004x0.002_1913_3
+B
+J's Kitchen New York is located in the left part of the image.
+
+Correct answer: D. left
+FALSE

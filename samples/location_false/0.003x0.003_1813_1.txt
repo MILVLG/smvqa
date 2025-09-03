@@ -1,0 +1,4 @@
+0.003x0.003_1813_1
+B
+D. bottom-left
+FALSE

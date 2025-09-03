@@ -1,0 +1,7 @@
+0.004x0.003_1741_4
+option:  B
+B
+Option B: No
+
+The sub-image provided zooms in on the upper right corner of the original map, and it shows various establishments like restaurants and cafes, but there are no clothes shops indicated in that area.
+TRUE

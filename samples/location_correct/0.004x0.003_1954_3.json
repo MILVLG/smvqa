@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1954_3",
+  "image": "0.004x0.003_1954.png",
+  "question": "Where is Farmers Deli in the image?\nA. top-right\nB. left\nC. center\nD. top",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 123, 300, 492) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhere is Farmers Deli in the image?\nOptions:\nA. top-right\nB. left\nC. center\nD. top",
+  "answer": "B",
+  "inference": "The sub-image shows the area around the intersection of Ridge Street and Stanton Street. Farmers Deli can be found near this intersection.\n\nIn the original map image, Farmers Deli is located at the intersection of Ridge Street and Stanton Street on the left side of the map.\n\nThus, the correct answer is:\nB. left",
+  "type": "location"
+}

@@ -1,0 +1,9 @@
+0.004x0.003_2015_5
+is:  A
+B
+A lawyer's office can be identified in the original image. The sub-image contains the labels "Attorney" and a scale to represent their offices. 
+
+Based on this information, the answer is:
+
+A. Yes
+FALSE

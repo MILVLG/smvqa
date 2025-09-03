@@ -1,0 +1,8 @@
+0.003x0.003_2239_2
+is:  C
+B
+In the sub-image, we can see a total of 5 trees marked along East Houston Street.
+
+Therefore, the correct answer is:
+C. 5
+FALSE

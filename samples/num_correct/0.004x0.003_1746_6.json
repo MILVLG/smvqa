@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1746_6",
+  "image": "0.004x0.003_1746.png",
+  "question": "What's the number of health and beauty shops on the map?\nA. 11\nB. 14\nC. 10\nD. 16",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (500, 123, 1100, 1107) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat's the number of health and beauty shops on the map?\nOptions:\nA. 11\nB. 14\nC. 10\nD. 16",
+  "answer": "B",
+  "inference": "To determine the number of health and beauty shops on the map, we need to look for the icons that represent these types of shops. Health and beauty shop icons often include symbols like a comb or some specific logos commonly associated with beauty or health shops.\n\nLet's count these icons on the original map:\n\n1. On the left side of \"East 13th Street\", there are multiple health and beauty shop icons (e.g., comb icon).\n2. Further checking the area around the whole map for similar icons.\n\nCounting all such icons on the original map from the leftmost section to the rightmost, the total number of health and beauty shop icons on the map is:\n\n**14**\n\nTherefore, the correct answer is:\nB. 14",
+  "type": "num"
+}

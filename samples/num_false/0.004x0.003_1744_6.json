@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1744_6",
+  "image": "0.004x0.003_1744.png",
+  "question": "Can you count the number of bars on the map?\nA. 14\nB. 18\nC. 16\nD. 11",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (400, 246, 1100, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nCan you count the number of bars on the map?\nOptions:\nA. 14\nB. 18\nC. 16\nD. 11",
+  "answer": "A",
+  "inference": "To count the number of bars from both the original and zoomed-in images, look for the icon representing bars, which is typically a martini glass or another relevant symbol.\n\nBy counting each bar icon present in both images, we have:\n\n1. Quick Coin One\n2. Momofuku Noodle Bar\n3. Tacos Morelos Taverna\n4. Beron\n5. Sidewalk Cafe\n6. Tarallucci e Vino\n7. Joe & P. Real Estate and Ferns\n8. Stickett Inn\n9. Faburamaus Fanny's Duo NYC\n10. Graffiti\n11. Rai Rai Ken\n\nIt appears there are 11 bars on the map.\n\nTherefore, the correct answer is:\n\nD. 11",
+  "type": "num"
+}

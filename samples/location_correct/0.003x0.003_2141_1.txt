@@ -1,0 +1,7 @@
+0.003x0.003_2141_1
+option:  C
+C
+Bee Wine & Liquors is located towards the bottom of the map.
+
+Option C: bottom
+TRUE

@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_2015_5",
+  "image": "0.004x0.003_2015.png",
+  "question": "Does any lawyer's offices exist anywhere on this map?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (300, 123, 1300, 615) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDoes any lawyer's offices exist anywhere on this map?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "A lawyer's office can be identified in the original image. The sub-image contains the labels \"Attorney\" and a scale to represent their offices. \n\nBased on this information, the answer is:\n\nA. Yes",
+  "type": "exist"
+}

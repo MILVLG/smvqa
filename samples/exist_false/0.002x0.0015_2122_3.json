@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_2122_3",
+  "image": "0.002x0.0015_2122.png",
+  "question": "Can you find parks at the center of the image?\nA. Yes\nB. No",
+  "query": "Can you find parks at the center of the image?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "A. Yes",
+  "type": "exist"
+}

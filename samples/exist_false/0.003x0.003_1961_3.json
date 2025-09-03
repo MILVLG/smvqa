@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1961_3",
+  "image": "0.003x0.003_1961.png",
+  "question": "Can you find parcel lockers?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (282, 750, 564, 1125) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nCan you find parcel lockers?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "Option A: Yes",
+  "type": "exist"
+}

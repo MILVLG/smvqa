@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_1784_1",
+  "image": "0.002x0.0015_1784.png",
+  "question": "What's the pathway from Montanna Shop to AT&T?\nA. ['Walk northeast', 'Turn left', 'Forward', 'Turn right', 'Turn left', 'Arrive']\nB. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Arrive']\nC. ['Walk northwest', 'Turn right', 'Turn right', 'Forward', 'Forward', 'Arrive']\nD. ['Walk northeast', 'Turn right', 'Forward', 'Turn right', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (375, 0, 750, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat's the pathway from Montanna Shop to AT&T?\nOptions:\nA. ['Walk northeast', 'Turn left', 'Forward', 'Turn right', 'Turn left', 'Arrive']\nB. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Arrive']\nC. ['Walk northwest', 'Turn right', 'Turn right', 'Forward', 'Forward', 'Arrive']\nD. ['Walk northeast', 'Turn right', 'Forward', 'Turn right', 'Arrive']",
+  "answer": "B",
+  "inference": "To determine the pathway from Montanna Shop to AT&T, let's first locate both destinations on the map.\n\n1. **Montanna Shop**: This is located near the intersection of Suffolk Street and Stanton Street on the left side of the map.\n2. **AT&T**: This is located near the intersection of Clinton Street and Stanton Street on the right side of the map, beside Metro by T-Mobile.\n\nTo get from Montanna Shop to AT&T:\n- Start by walking northeast along Stanton Street.\n- Turn right when you reach Clinton Street.\n- Walk straight forward.\n- The AT&T store should be on your right.\n\nBased on this pathway, the correct answer is:\n\nD. ['Walk northeast', 'Turn right', 'Forward', 'Turn right', 'Arrive']",
+  "type": "route"
+}

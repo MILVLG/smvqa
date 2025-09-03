@@ -1,0 +1,14 @@
+0.004x0.002_2185
+is:  C
+C
+To get from Aura Cleaners to B-Side:
+
+1. Start from Aura Cleaners and walk northwest along Avenue B.
+2. Continue on Avenue B until you reach East 13th Street.
+3. When you reach the intersection with East 13th Street, turn left.
+4. Continue straight on East 13th Street past the intersections until you see B-Side on your right.
+
+So, the correct sequence is:
+
+C. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']
+TRUE

@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_1832_3",
+  "image": "0.003x0.0015_1832.png",
+  "question": "Does any tea shops exist anywhere?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (651, 0, 1116, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDoes any tea shops exist anywhere?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "Option B: No\n\nThere are no tea shops marked on the provided map images.",
+  "type": "exist"
+}

@@ -1,0 +1,10 @@
+0.002x0.0015_1954_2
+is:  B
+C
+In the sub-image, One More Thai is on the right side of Ridge Street, and further to the right (east) is the East Houston Street. The Siempre Verde Garden is situated to the left (west) of Ridge Street.
+
+Thus, One More Thai is to the right of Ridge Street when compared to Siempre Verde Garden, which is more towards the bottom left, indicating direction:
+
+The correct answer is:
+B. bottom-left
+FALSE

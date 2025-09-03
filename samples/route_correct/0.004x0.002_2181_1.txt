@@ -1,0 +1,15 @@
+0.004x0.002_2181_1
+is:  B
+B
+To determine the correct directions from Karibbean Restaurant to Nublu 151, follow these steps on the map:
+
+1. Start at the Karibbean Restaurant, located at the intersection of Avenue C and East 8th Street.
+2. Walk northeast along East 9th Street.
+3. Turn left onto Avenue C.
+4. Turn right onto East 10th Street.
+5. Walk forward to the destination, Nublu 151, which is on East 10th Street.
+
+The correct answer is:
+
+B. ['Walk northeast', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Turn right', 'Arrive']
+TRUE

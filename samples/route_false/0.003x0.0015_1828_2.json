@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_1828_2",
+  "image": "0.003x0.0015_1828.png",
+  "question": "What's the pathway from NYPD 7 PCT to Joan H. and Preston Robert Tisch Center?\nA. ['Walk northeast', 'Turn left', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Forward', 'Arrive']\nB. ['Walk west', 'Forward', 'Forward', 'Turn left', 'Turn left', 'Arrive']\nC. ['Walk southeast', 'Forward', 'Turn left', 'Turn left', 'Forward', 'Arrive']\nD. ['Walk southwest', 'Turn right', 'Turn left', 'Turn left', 'Arrive']",
+  "query": "What's the pathway from NYPD 7 PCT to Joan H. and Preston Robert Tisch Center?\nOptions:\nA. ['Walk northeast', 'Turn left', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Forward', 'Arrive']\nB. ['Walk west', 'Forward', 'Forward', 'Turn left', 'Turn left', 'Arrive']\nC. ['Walk southeast', 'Forward', 'Turn left', 'Turn left', 'Forward', 'Arrive']\nD. ['Walk southwest', 'Turn right', 'Turn left', 'Turn left', 'Arrive']",
+  "answer": "A",
+  "inference": "From the map, you can identify the following pathway from NYPD 7 PCT to Joan H. and Preston Robert Tisch Center:\n\n1. Walk west on Delancey Street to Ridge Street.\n2. Continue forward on Delancey Street.\n3. Turn left onto Ridge Street.\n4. Turn left onto the path leading directly to the center.\n\nSo, the correct option is:\n\nB. ['Walk west', 'Forward', 'Forward', 'Turn left', 'Turn left', 'Arrive']",
+  "type": "route"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_1913_3",
+  "image": "0.004x0.002_1913.png",
+  "question": "Where is J's Kitchen New York located in this image?\nA. right\nB. center\nC. top-right\nD. left",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (300, 654, 600, 981) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhere is J's Kitchen New York located in this image?\nOptions:\nA. right\nB. center\nC. top-right\nD. left",
+  "answer": "B",
+  "inference": "J's Kitchen New York is located in the left part of the image.\n\nCorrect answer: D. left",
+  "type": "location"
+}

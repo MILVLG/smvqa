@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1741_4",
+  "image": "0.004x0.003_1741.png",
+  "question": "Do clothes shops exist at the top-right of this map?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (1100, 0, 1400, 369) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nDo clothes shops exist at the top-right of this map?\nOptions:\nA. Yes\nB. No",
+  "answer": "B",
+  "inference": "Option B: No\n\nThe sub-image provided zooms in on the upper right corner of the original map, and it shows various establishments like restaurants and cafes, but there are no clothes shops indicated in that area.",
+  "type": "exist"
+}
