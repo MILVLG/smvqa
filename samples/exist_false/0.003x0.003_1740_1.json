@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_1740_1",
+  "image": "0.003x0.003_1740.png",
+  "question": "Is there any gardens located at the top-left of the image?\nA. Yes\nB. No",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 0, 282, 375) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nIs there any gardens located at the top-left of the image?\nOptions:\nA. Yes\nB. No",
+  "answer": "A",
+  "inference": "Option B. No\n\nThere are no gardens located at the top-left of the image. The area appears to be primarily buildings and streets.",
+  "type": "exist"
+}

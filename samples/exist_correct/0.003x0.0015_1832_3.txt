@@ -1,0 +1,7 @@
+0.003x0.0015_1832_3
+option:  B
+B
+Option B: No
+
+There are no tea shops marked on the provided map images.
+TRUE

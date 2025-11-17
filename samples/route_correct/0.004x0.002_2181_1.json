@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_2181_1",
+  "image": "0.004x0.002_2181.png",
+  "question": "How to get from Karibbean Restaurant to Nublu 151?\nA. ['Walk southeast', 'Forward', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Arrive']\nB. ['Walk northeast', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Turn right', 'Arrive']\nC. ['Walk southwest', 'Turn left', 'Turn left', 'Arrive']\nD. ['Walk west', 'Forward', 'Turn right', 'Forward', 'Turn left', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (400, 327, 1100, 981) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow to get from Karibbean Restaurant to Nublu 151?\nOptions:\nA. ['Walk southeast', 'Forward', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Arrive']\nB. ['Walk northeast', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Turn right', 'Arrive']\nC. ['Walk southwest', 'Turn left', 'Turn left', 'Arrive']\nD. ['Walk west', 'Forward', 'Turn right', 'Forward', 'Turn left', 'Arrive']",
+  "answer": "B",
+  "inference": "To determine the correct directions from Karibbean Restaurant to Nublu 151, follow these steps on the map:\n\n1. Start at the Karibbean Restaurant, located at the intersection of Avenue C and East 8th Street.\n2. Walk northeast along East 9th Street.\n3. Turn left onto Avenue C.\n4. Turn right onto East 10th Street.\n5. Walk forward to the destination, Nublu 151, which is on East 10th Street.\n\nThe correct answer is:\n\nB. ['Walk northeast', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Turn right', 'Arrive']",
+  "type": "route"
+}

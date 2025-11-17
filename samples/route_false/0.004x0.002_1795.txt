@@ -1,0 +1,16 @@
+0.004x0.002_1795
+is:  D
+B
+Based on the images provided, we can determine the directions from Sixth Street Haunted House to Fine Liquors & Wines by observing their relative locations on the map. 
+
+1. Start at Sixth Street Haunted House.
+2. Walk east along East 5th Street.
+3. Turn right onto Avenue A.
+4. Turn left onto East 4th Street.
+5. Fine Liquors & Wines will be on the right side.
+
+This matches with option D: ['Walk east', 'Turn left', 'Turn left', 'Arrive']. 
+
+Therefore, the answer is:
+D. ['Walk east', 'Turn left', 'Turn left', 'Arrive']
+FALSE

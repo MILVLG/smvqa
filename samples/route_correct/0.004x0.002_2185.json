@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_2185",
+  "image": "0.004x0.002_2185.png",
+  "question": "How can I get from Aura Cleaners to B-Side?\nA. ['Walk southeast', 'Turn left', 'Turn left', 'Turn left', 'Forward', 'Arrive']\nB. ['Walk southeast', 'Turn right', 'Turn left', 'Turn right', 'Forward', 'Turn right', 'Turn left', 'Arrive']\nC. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']\nD. ['Walk northeast', 'Turn right', 'Forward', 'Turn left', 'Turn left', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (100, 109, 1100, 981) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow can I get from Aura Cleaners to B-Side?\nOptions:\nA. ['Walk southeast', 'Turn left', 'Turn left', 'Turn left', 'Forward', 'Arrive']\nB. ['Walk southeast', 'Turn right', 'Turn left', 'Turn right', 'Forward', 'Turn right', 'Turn left', 'Arrive']\nC. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']\nD. ['Walk northeast', 'Turn right', 'Forward', 'Turn left', 'Turn left', 'Arrive']",
+  "answer": "C",
+  "inference": "To get from Aura Cleaners to B-Side:\n\n1. Start from Aura Cleaners and walk northwest along Avenue B.\n2. Continue on Avenue B until you reach East 13th Street.\n3. When you reach the intersection with East 13th Street, turn left.\n4. Continue straight on East 13th Street past the intersections until you see B-Side on your right.\n\nSo, the correct sequence is:\n\nC. ['Walk northwest', 'Turn left', 'Turn right', 'Forward', 'Forward', 'Forward', 'Forward', 'Arrive']",
+  "type": "route"
+}

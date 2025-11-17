@@ -1,0 +1,14 @@
+0.003x0.003_1961_1
+is:  B
+B
+To determine how to navigate from East Side Glatt to Luther Gulick Playground, let's observe the map closely.
+
+1. Start at East Side Glatt located on Grand Street.
+2. Walk northwest on Grand Street.
+3. Turn right onto Willet Street and continue straight.
+4. Turn right at Broome Street to reach Luther Gulick Playground.
+
+Thus, the correct answer is:
+
+B. ['Walk northwest', 'Turn right', 'Turn right', 'Arrive']
+TRUE

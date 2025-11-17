@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_1795",
+  "image": "0.004x0.002_1795.png",
+  "question": "How to get from Sixth Street Haunted House to Fine Liquors & Wines?\nA. ['Walk west', 'Turn left', 'Turn right', 'Forward', 'Turn right', 'Arrive']\nB. ['Walk northwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Arrive']\nC. ['Walk east', 'Forward', 'Turn right', 'Turn left', 'Turn left', 'Turn left', 'Turn left', 'Arrive']\nD. ['Walk east', 'Turn left', 'Turn left', 'Arrive']",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (900, 0, 1400, 545) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nHow to get from Sixth Street Haunted House to Fine Liquors & Wines?\nOptions:\nA. ['Walk west', 'Turn left', 'Turn right', 'Forward', 'Turn right', 'Arrive']\nB. ['Walk northwest', 'Turn left', 'Forward', 'Forward', 'Forward', 'Arrive']\nC. ['Walk east', 'Forward', 'Turn right', 'Turn left', 'Turn left', 'Turn left', 'Turn left', 'Arrive']\nD. ['Walk east', 'Turn left', 'Turn left', 'Arrive']",
+  "answer": "B",
+  "inference": "Based on the images provided, we can determine the directions from Sixth Street Haunted House to Fine Liquors & Wines by observing their relative locations on the map. \n\n1. Start at Sixth Street Haunted House.\n2. Walk east along East 5th Street.\n3. Turn right onto Avenue A.\n4. Turn left onto East 4th Street.\n5. Fine Liquors & Wines will be on the right side.\n\nThis matches with option D: ['Walk east', 'Turn left', 'Turn left', 'Arrive']. \n\nTherefore, the answer is:\nD. ['Walk east', 'Turn left', 'Turn left', 'Arrive']",
+  "type": "route"
+}

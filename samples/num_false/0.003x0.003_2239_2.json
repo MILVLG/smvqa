@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.003_2239_2",
+  "image": "0.003x0.003_2239.png",
+  "question": "What's the number of trees on the map?\nA. 11\nB. 10\nC. 5\nD. 15",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (188, 0, 658, 500) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat's the number of trees on the map?\nOptions:\nA. 11\nB. 10\nC. 5\nD. 15",
+  "answer": "B",
+  "inference": "In the sub-image, we can see a total of 5 trees marked along East Houston Street.\n\nTherefore, the correct answer is:\nC. 5",
+  "type": "num"
+}

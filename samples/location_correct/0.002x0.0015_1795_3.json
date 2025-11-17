@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_1795_3",
+  "image": "0.002x0.0015_1795.png",
+  "question": "What direction is Numero 28 from Village Farm Grocery on the map?\nA. top-right\nB. bottom\nC. top-left\nD. bottom-right",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 369, 625, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat direction is Numero 28 from Village Farm Grocery on the map?\nOptions:\nA. top-right\nB. bottom\nC. top-left\nD. bottom-right",
+  "answer": "A",
+  "inference": "The sub-image gives a detailed view of the area around Village Farm Grocery. \n\nVillage Farm Grocery is located on the left side of the sub-image at 150 2nd Avenue. Numero 28 is not visible in the sub-image, so we need to refer to the original map. \n\nIn the original image, Numero 28 is located at 176 2nd Avenue, which is north of East 11th Street, while the Village Farm Grocery is located at 150 2nd Avenue, which is just south of East 10th Street.\n\nThus, Numero 28 is located towards the top-right direction (north) from Village Farm Grocery.\n\nThe correct answer is:\nA. top-right",
+  "type": "location"
+}

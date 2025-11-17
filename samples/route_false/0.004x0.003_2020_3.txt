@@ -1,0 +1,20 @@
+0.004x0.003_2020_3
+is:  C
+D
+To get from Roderick Lucente, DMD, PC to Burrata Basil Pizza, we need to analyze the maps.
+
+1. Locate Roderick Lucente, DMD, PC:
+   - It is on East 13th Street near Avenue A.
+
+2. Locate Burrata Basil Pizza:
+   - It is near the intersection of East 14th Street Service Road and Avenue A.
+
+The directions would be:
+- Leave the DMD office and head north on Avenue A.
+- Continue north until you reach East 14th Street Service Road.
+- Proceed slightly right along East 14th Street Service Road.
+
+From these instructions, the best match is:
+
+C. ['Walk north', 'Forward', 'Turn right', 'Arrive']
+FALSE

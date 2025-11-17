@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_2121",
+  "image": "0.004x0.003_2121.png",
+  "question": "If walking, what is the nearest garden to Dental Place?\nA. El Jardin del Paraiso\nB. Orchard Alley Garden",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (300, 0, 1100, 615) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nIf walking, what is the nearest garden to Dental Place?\nOptions:\nA. El Jardin del Paraiso\nB. Orchard Alley Garden",
+  "answer": "B",
+  "inference": "The nearest garden to Dental Place is Orchard Alley Garden.\n\nOrchard Alley Garden is located close to Dental Place, as indicated in the zoomed-in sub-image. \n\nTherefore, the correct answer is:\nB. Orchard Alley Garden",
+  "type": "closer"
+}

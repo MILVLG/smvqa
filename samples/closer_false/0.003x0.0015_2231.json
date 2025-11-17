@@ -1,0 +1,9 @@
+{
+  "id": "0.003x0.0015_2231",
+  "image": "0.003x0.0015_2231.png",
+  "question": "What is the nearest garden to Citi Bike - East 12th Street & Avenue B in terms of straight-line distance in the image?\nA. Campos Community Garden\nB. Vamos A Sembrar",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (0, 0, 651, 738) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhat is the nearest garden to Citi Bike - East 12th Street & Avenue B in terms of straight-line distance in the image?\nOptions:\nA. Campos Community Garden\nB. Vamos A Sembrar",
+  "answer": "B",
+  "inference": "The nearest garden to Citi Bike - East 12th Street & Avenue B in terms of straight-line distance is Campos Community Garden.\n\nSo, the correct answer is:\nA. Campos Community Garden",
+  "type": "closer"
+}

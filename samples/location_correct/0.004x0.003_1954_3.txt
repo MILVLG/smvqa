@@ -1,0 +1,10 @@
+0.004x0.003_1954_3
+is:  B
+B
+The sub-image shows the area around the intersection of Ridge Street and Stanton Street. Farmers Deli can be found near this intersection.
+
+In the original map image, Farmers Deli is located at the intersection of Ridge Street and Stanton Street on the left side of the map.
+
+Thus, the correct answer is:
+B. left
+TRUE

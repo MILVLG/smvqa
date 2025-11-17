@@ -1,0 +1,8 @@
+0.003x0.0015_2231
+is:  A
+B
+The nearest garden to Citi Bike - East 12th Street & Avenue B in terms of straight-line distance is Campos Community Garden.
+
+So, the correct answer is:
+A. Campos Community Garden
+FALSE

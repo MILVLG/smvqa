@@ -1,0 +1,9 @@
+{
+  "id": "0.002x0.0015_1789",
+  "image": "0.002x0.0015_1789.png",
+  "question": "Which is closer to the south, Two Boots or McKinley Playground?\nA. McKinley Playground\nB. Two Boots",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (250, 0, 750, 492) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich is closer to the south, Two Boots or McKinley Playground?\nOptions:\nA. McKinley Playground\nB. Two Boots",
+  "answer": "B",
+  "inference": "B. Two Boots",
+  "type": "closer"
+}

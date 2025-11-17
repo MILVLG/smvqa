@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.003_1790",
+  "image": "0.004x0.003_1790.png",
+  "question": "If walking, what is the nearest tobacco shop to Davidovich Bakery?\nA. Tobacco Shop\nB. Organic Snacks & Grocery",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (200, 369, 800, 1476) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nIf walking, what is the nearest tobacco shop to Davidovich Bakery?\nOptions:\nA. Tobacco Shop\nB. Organic Snacks & Grocery",
+  "answer": "B",
+  "inference": "The nearest tobacco shop to Davidovich Bakery is the one labeled \"Smoke Shop\" which is right next to Davidovich Bakery. Therefore, the correct option is:\n\nA. Tobacco Shop",
+  "type": "closer"
+}

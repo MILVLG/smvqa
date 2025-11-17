@@ -1,0 +1,7 @@
+0.003x0.003_1740_1
+option:  B
+A
+Option B. No
+
+There are no gardens located at the top-left of the image. The area appears to be primarily buildings and streets.
+FALSE

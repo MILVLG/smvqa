@@ -1,0 +1,18 @@
+0.004x0.003_1839_1
+is:  A
+A
+To navigate from Henry M. Jackson Playground to University Neighborhood High School, you follow these steps:
+
+1. Walk west along Henry Street until you reach the intersection with Gouverneur Street.
+2. Turn left onto Gouverneur Street.
+3. Continue along Gouverneur Street and cross Madison Street.
+4. University Neighborhood High School will be on your right after you cross Madison Street.
+
+The sequence can be matched to the option provided:
+
+Option A:
+['Walk west', 'Turn left', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Arrive']
+
+So, the correct answer is:
+A. ['Walk west', 'Turn left', 'Turn right', 'Turn left', 'Forward', 'Forward', 'Arrive']
+TRUE

@@ -1,0 +1,9 @@
+{
+  "id": "0.004x0.002_2186",
+  "image": "0.004x0.002_2186.png",
+  "question": "Which place is located closer to the east, Hibachi Express or Load Laundromat?\nA. Hibachi Express\nB. Load Laundromat",
+  "query": "The first image is the original map image, which displays a larger area of the map. The second image is a zoomed-in sub-image extracted from the (100, 654, 700, 981) position of the original image, with the top-left corner as the origin. Please answer the following questions based on these two images.\nWhich place is located closer to the east, Hibachi Express or Load Laundromat?\nOptions:\nA. Hibachi Express\nB. Load Laundromat",
+  "answer": "B",
+  "inference": "To determine which place is located closer to the east, we need to compare the positions of Hibachi Express and Load Laundromat on the map.\n\nFrom the original image:\n- Hibachi Express is located to the west of Avenue B on East 14th Street.\n- Load Laundromat is not explicitly mentioned.\n\nFrom the zoomed-in image, which shows the area around Avenue B and East 14th Street:\n- Hibachi Express is visible, to the west of Avenue B.\n- Load Laundromat is not indicated.\n\nSince Hibachi Express is visible and positioned to the west of Avenue B, and there is no indication of Load Laundromat to compare against, we cannot definitively determine the location of Load Laundromat based on the provided images.\n\nTherefore, given the information provided, the correct answer is:\nA. Hibachi Express",
+  "type": "closer"
+}
